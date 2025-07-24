@@ -52,6 +52,14 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				wine: {
+					primary: 'hsl(var(--wine-primary))',
+					secondary: 'hsl(var(--wine-secondary))',
+					gold: 'hsl(var(--wine-gold))',
+					'gold-dark': 'hsl(var(--wine-gold-dark))',
+					cream: 'hsl(var(--wine-cream))',
+					dark: 'hsl(var(--wine-dark))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
